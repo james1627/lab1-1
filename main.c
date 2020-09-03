@@ -1,3 +1,7 @@
+// Author: James Overmoyer jpo5322@psu.edu
+// Collaborator: Tanner Piotrowski tmp5779@psu.edu
+// Collaborator: Kieran Murdocca kkm5754@psu.edu
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <readline/readline.h>
